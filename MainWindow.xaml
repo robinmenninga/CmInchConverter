@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HeightConverter"
         mc:Ignorable="d"
-        Title="MainWindow" Height="250" Width="400"
+        Title="Converter"
+        Height="250" Width="400"
         ResizeMode="NoResize">
     <Grid>
         <Label Content="Enter cm:" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top"/>
